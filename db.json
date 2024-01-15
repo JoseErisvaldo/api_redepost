@@ -39,6 +39,8 @@
       "password": "9uQFF1Lh",
       "birthDate": "1998-04-06",
       "image": "https://robohash.org/Terry.png?set=set4",
+      "seguidores": "1,000",
+      "seguindo": "500",
       "address": {
         "address": "Rua Francisco Viana de Carvalho",
         "city": "Louveira",
@@ -58,6 +60,8 @@
       "password": "P@ssw0rd",
       "birthDate": "1994-08-10",
       "image": "https://robohash.org/Ana.png?set=set4",
+      "seguidores": "1,000",
+      "seguindo": "500",
       "address": {
         "address": "Av. Paulista",
         "city": "São Paulo",
@@ -77,6 +81,8 @@
       "password": "C@rl0sPass",
       "birthDate": "1989-03-22",
       "image": "https://robohash.org/Carlos.png?set=set4",
+      "seguidores": "1,000",
+      "seguindo": "500",
       "address": {
         "address": "Rua das Flores",
         "city": "Rio de Janeiro",
