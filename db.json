@@ -1,53 +1,101 @@
 {
   "posts": [
     {
-      "id": "1",
+      "idPost": "1",
       "name": "José Santos",
-      "Comment": "Meu primeiro post na redeMais :D",
-      "Photo": "https://clubedaempreendedora.com.br/wordpress/wp-content/files/clubedaempreendedora.com.br/2021/04/primeiro-posts-do-blog-768x401.jpg",
+      "comment": "Meu primeiro post na redeMais :D",
+      "photo": "https://clubedaempreendedora.com.br/wordpress/wp-content/files/clubedaempreendedora.com.br/2021/04/primeiro-posts-do-blog-768x401.jpg",
       "idUser": "1",
-      "creat_att": "14/01/2024 12:00"
+      "created_at": "14/01/2024 12:00"
     },
     {
-      "id": "2",
+      "idPost": "2",
       "name": "Lucia Maria",
-      "Comment": "Você pode mais além do que voce quer !!",
-      "Photo":"https://cdn.pensador.com/img/frase/fi/lm/filme_o_rei_leao_3_para_conseguir_o_que_quer_voce_deve_lgy4qe6.jpg",
-      "postId": "2",
-      "creat_att": "14/01/2024 12:00"
+      "comment": "Você pode mais além do que você quer !!",
+      "photo": "https://cdn.pensador.com/img/frase/fi/lm/filme_o_rei_leao_3_para_conseguir_o_que_quer_voce_deve_lgy4qe6.jpg",
+      "idUser": "2",
+      "created_at": "14/01/2024 12:00"
     },
     {
-      "id": "3",
+      "idPost": "3",
       "name": "José Santos",
-      "Comment": "Seus sonhos são base que faz sentido na sua vida !!",
-      "Photo":"https://cdn.pensador.com/img/frase/cl/au/claudio_torres_a_vida_so_tem_sentido_quando_sonhamos_e_lgp4p05.jpg",
-      "postId": "1",
-      "creat_att": "14/01/2024"
+      "comment": "Seus sonhos são a base que faz sentido na sua vida !!",
+      "photo": "https://cdn.pensador.com/img/frase/cl/au/claudio_torres_a_vida_so_tem_sentido_quando_sonhamos_e_lgp4p05.jpg",
+      "idUser": "1",
+      "created_at": "14/01/2024"
+    },
+    {
+      "idPost": "4",
+      "name": "José Santos",
+      "comment": "Você é livre para sonhar !! :D",
+      "photo": "https://cdn.pensador.com/img/frase/al/in/aline_aparecida_seja_livre_pra_sonhar_seja_livre_pra_vo_lmyq3o4.jpg",
+      "idUser": "1",
+      "created_at": "15/01/2024 21:30"
+    }
+  ],
+  "conta": [
+    {
+      "id": 1,
+      "nomeUsuario": "José",
+      "nomeCompleto": "José Erisvaldo dos Santos",
+      "imagemPerfil": "https://robohash.org/Terry.png?set=set4",
+      "seguidores": [
+        {
+          "id": 2,
+          "dataSeguido": "2022-01-15T12:30:00Z"
+        },
+        {
+          "id": 3,
+          "dataSeguido": "2022-01-16T09:45:00Z"
+        },
+        {
+          "id": 4,
+          "dataSeguido": "2022-01-16T09:45:00Z"
+        },
+        {
+          "id": 6,
+          "dataSeguido": "2022-01-16T09:45:00Z"
+        }
+      ],
+      "seguindo": [
+        {
+          "id": 4,
+          "dataSeguido": "2022-01-20T08:15:00Z"
+        },
+        {
+          "id": 5,
+          "dataSeguido": "2022-01-22T14:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nomeUsuario": "Ana",
+      "nomeCompleto": "Ana Silva",
+      "imagemPerfil": "https://robohash.org/Ana.png?set=set4",
+      "seguidores": [
+        {
+          "id": 2,
+          "dataSeguido": "2022-01-15T12:30:00Z"
+        },
+        {
+          "id": 3,
+          "dataSeguido": "2022-01-16T09:45:00Z"
+        }
+      ],
+      "seguindo": [
+        {
+          "id": 4,
+          "dataSeguido": "2022-01-20T08:15:00Z"
+        },
+        {
+          "id": 5,
+          "dataSeguido": "2022-01-22T14:00:00Z"
+        }
+      ]
     }
   ],
   "users": [
-    {
-      "id": "1",
-      "firstName": "José",
-      "lastName": "Erisvaldo dos Santos",
-      "maidenName": "jeriSantos",
-      "age": 50,
-      "gender": "male",
-      "email": "josePG@sohu.com",
-      "phone": "+63 791 675 8914",
-      "username": "jeri_santos",
-      "password": "9uQFF1Lh",
-      "birthDate": "1998-04-06",
-      "image": "https://robohash.org/Terry.png?set=set4",
-      "seguidores": "1,000",
-      "seguindo": "500",
-      "address": {
-        "address": "Rua Francisco Viana de Carvalho",
-        "city": "Louveira",
-        "postalCode": "13294534",
-        "state": "SP"
-      }
-    },
     {
       "id": "2",
       "firstName": "Ana",
@@ -60,8 +108,7 @@
       "password": "P@ssw0rd",
       "birthDate": "1994-08-10",
       "image": "https://robohash.org/Ana.png?set=set4",
-      "seguidores": "1,000",
-      "seguindo": "500",
+      
       "address": {
         "address": "Av. Paulista",
         "city": "São Paulo",
@@ -236,6 +283,7 @@
       "password": "9uQFF1Lh",
       "birthDate": "1998-04-06",
       "image": "https://robohash.org/Terry.png?set=set4",
+      "bio": "Seja livre para se aventurar nas coisas mais gostosas do munto !!! :D",
       "address": {
         "address": "Rua Francisco Viana de Carvalho",
         "city": "Louveira",
