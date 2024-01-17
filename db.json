@@ -6,7 +6,8 @@
       "comment": "Meu primeiro post na redeMais :D",
       "photo": "https://clubedaempreendedora.com.br/wordpress/wp-content/files/clubedaempreendedora.com.br/2021/04/primeiro-posts-do-blog-768x401.jpg",
       "idUser": "1",
-      "created_at": "14/01/2024 12:00"
+      "created_at": "14/01/2024 12:00",
+      "id": "34fd"
     },
     {
       "idPost": "2",
@@ -14,7 +15,8 @@
       "comment": "Você pode mais além do que você quer !!",
       "photo": "https://cdn.pensador.com/img/frase/fi/lm/filme_o_rei_leao_3_para_conseguir_o_que_quer_voce_deve_lgy4qe6.jpg",
       "idUser": "2",
-      "created_at": "14/01/2024 12:00"
+      "created_at": "14/01/2024 12:00",
+      "id": "e1f6"
     },
     {
       "idPost": "3",
@@ -22,7 +24,8 @@
       "comment": "Seus sonhos são a base que faz sentido na sua vida !!",
       "photo": "https://cdn.pensador.com/img/frase/cl/au/claudio_torres_a_vida_so_tem_sentido_quando_sonhamos_e_lgp4p05.jpg",
       "idUser": "1",
-      "created_at": "14/01/2024"
+      "created_at": "14/01/2024",
+      "id": "a8a7"
     },
     {
       "idPost": "4",
@@ -30,46 +33,54 @@
       "comment": "Você é livre para sonhar !! :D",
       "photo": "https://cdn.pensador.com/img/frase/al/in/aline_aparecida_seja_livre_pra_sonhar_seja_livre_pra_vo_lmyq3o4.jpg",
       "idUser": "1",
-      "created_at": "15/01/2024 21:30"
+      "created_at": "15/01/2024 21:30",
+      "id": "e101"
     }
   ],
   "conta": [
     {
-      "id": 1,
+      "id": "1",
       "nomeUsuario": "José",
       "nomeCompleto": "José Erisvaldo dos Santos",
       "imagemPerfil": "https://robohash.org/Terry.png?set=set4",
       "seguidores": [
         {
           "id": 2,
+          "firstName": "Ana",
           "dataSeguido": "2022-01-15T12:30:00Z"
         },
         {
           "id": 3,
+          "firstName": "Carlos",
           "dataSeguido": "2022-01-16T09:45:00Z"
+
         },
         {
           "id": 4,
+          "firstName": "Maria",
           "dataSeguido": "2022-01-16T09:45:00Z"
         },
         {
           "id": 6,
+          "firstName": "Camila",
           "dataSeguido": "2022-01-16T09:45:00Z"
         }
       ],
       "seguindo": [
         {
           "id": 4,
+          "firstName": "Maria",
           "dataSeguido": "2022-01-20T08:15:00Z"
         },
         {
           "id": 5,
+          "firstName": "Ricardo",
           "dataSeguido": "2022-01-22T14:00:00Z"
         }
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "nomeUsuario": "Ana",
       "nomeCompleto": "Ana Silva",
       "imagemPerfil": "https://robohash.org/Ana.png?set=set4",
@@ -108,7 +119,6 @@
       "password": "P@ssw0rd",
       "birthDate": "1994-08-10",
       "image": "https://robohash.org/Ana.png?set=set4",
-      
       "address": {
         "address": "Av. Paulista",
         "city": "São Paulo",
@@ -283,7 +293,6 @@
       "password": "9uQFF1Lh",
       "birthDate": "1998-04-06",
       "image": "https://robohash.org/Terry.png?set=set4",
-      "bio": "Seja livre para se aventurar nas coisas mais gostosas do munto !!! :D",
       "address": {
         "address": "Rua Francisco Viana de Carvalho",
         "city": "Louveira",
