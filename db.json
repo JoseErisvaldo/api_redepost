@@ -5,36 +5,32 @@
       "name": "José Santos",
       "comment": "Meu primeiro post na redeMais :D",
       "photo": "https://clubedaempreendedora.com.br/wordpress/wp-content/files/clubedaempreendedora.com.br/2021/04/primeiro-posts-do-blog-768x401.jpg",
-      "idUser": "1",
       "created_at": "14/01/2024 12:00",
-      "id": "34fd"
+      "id": "1"
     },
     {
       "idPost": "2",
       "name": "Lucia Maria",
       "comment": "Você pode mais além do que você quer !!",
       "photo": "https://cdn.pensador.com/img/frase/fi/lm/filme_o_rei_leao_3_para_conseguir_o_que_quer_voce_deve_lgy4qe6.jpg",
-      "idUser": "2",
       "created_at": "14/01/2024 12:00",
-      "id": "e1f6"
+      "id": "2"
     },
     {
       "idPost": "3",
       "name": "José Santos",
       "comment": "Seus sonhos são a base que faz sentido na sua vida !!",
       "photo": "https://cdn.pensador.com/img/frase/cl/au/claudio_torres_a_vida_so_tem_sentido_quando_sonhamos_e_lgp4p05.jpg",
-      "idUser": "1",
       "created_at": "14/01/2024",
-      "id": "a8a7"
+      "id": "1"
     },
     {
       "idPost": "4",
       "name": "José Santos",
       "comment": "Você é livre para sonhar !! :D",
       "photo": "https://cdn.pensador.com/img/frase/al/in/aline_aparecida_seja_livre_pra_sonhar_seja_livre_pra_vo_lmyq3o4.jpg",
-      "idUser": "1",
       "created_at": "15/01/2024 21:30",
-      "id": "e101"
+      "id": "1"
     }
   ],
   "conta": [
