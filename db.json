@@ -49,7 +49,6 @@
           "id": 3,
           "firstName": "Carlos",
           "dataSeguido": "2022-01-16T09:45:00Z"
-
         },
         {
           "id": 4,
@@ -283,10 +282,30 @@
       "maidenName": "jeriSantos",
       "age": 50,
       "gender": "male",
-      "email": "josePG@sohu.com",
+      "email": "josepg@gmail.com",
       "phone": "+63 791 675 8914",
       "username": "jeri_santos",
       "password": "9uQFF1Lh",
+      "birthDate": "1998-04-06",
+      "image": "https://robohash.org/Terry.png?set=set4",
+      "address": {
+        "address": "Rua Francisco Viana de Carvalho",
+        "city": "Louveira",
+        "postalCode": "13294534",
+        "state": "SP"
+      }
+    },
+    {
+      "id": "11",
+      "firstName": "Lucia",
+      "lastName": "Maria Oliveira Santos",
+      "maidenName": "luci_santos",
+      "age": 23,
+      "gender": "male",
+      "email": "lucia@santos.com",
+      "phone": "+63 643 316 6458",
+      "username": "lucia_santos",
+      "password": "dasqdqw",
       "birthDate": "1998-04-06",
       "image": "https://robohash.org/Terry.png?set=set4",
       "address": {
