@@ -184,7 +184,6 @@
     }
   ],
   "likes": [
-    // Primeiro conjunto de 10 curtidas
     {
       "id": "1",
       "idPost": "1",
@@ -296,7 +295,7 @@
       }
     },
   
-    // Segundo conjunto de 10 curtidas
+    
     {
       "id": "11",
       "idPost": "11",
@@ -408,7 +407,6 @@
       }
     },
   
-    // Terceiro conjunto de 10 curtidas
     {
       "id": "21",
       "idPost": "21",
